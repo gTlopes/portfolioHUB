@@ -19,5 +19,3 @@ O **PortfolioHUB** tem como objetivo apresentar meus projetos, habilidades e tra
 - **GitHub Pages**
 
 ---
-
-## Estrutura do Repositório
