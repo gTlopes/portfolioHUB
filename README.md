@@ -17,5 +17,3 @@ O **PortfolioHUB** tem como objetivo apresentar meus projetos, habilidades e tra
 - **JavaScript**
 - **Git** e **GitHub**
 - **GitHub Pages**
-
----
